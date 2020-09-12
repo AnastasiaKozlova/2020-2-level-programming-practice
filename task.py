@@ -15,5 +15,5 @@ diff21(30) → 18
 
 
 def diff(num):
-    pass
+    return 0
 
